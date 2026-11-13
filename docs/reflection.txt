@@ -1,0 +1,23 @@
+
+1. What was your primary contribution to the project?
+
+My primary contribution was designing and programming the entire project by myself. I wrote the C program to record room entries and exits, manage the occupancy limit, display the room status, ...
+
+
+2. What was the most challenging technical problem you encountered?
+
+--> The most challenging part was designing the structure of the programming at the beginning, I have to think a lot. After that, the coding part is just easy.
+
+
+3. How did you use testing or debugging to solve a problem?
+
+--> I tested the program using different inputs, such as recording entries and exits, reaching the maximum capacity, and trying to enter or exit when it was not allowed.
+
+4. Which skills from CSE 1106 were most useful?
+
+--> For me, I learned a lot about Linux command in this class and it help me alot.
+
+
+5. What would you improve if you had more time?
+
+--> If I had more time, I would improve the user interface and add more features.
